@@ -1,2 +1,2 @@
-# Ishizawa
+# beginner
 学習用
